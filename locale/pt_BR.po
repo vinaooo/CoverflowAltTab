@@ -2,6 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Fábio Nogueira <deb-user-ba@ubuntu.com>, 2015.
+# Vinícius Rubens Pedrinho <vrpedrinho@gmail.com>, 2023.
 #
 msgid ""
 msgstr ""
@@ -9,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-06 06:48+0330\n"
 "PO-Revision-Date: 2016-05-14 17:43+0200\n"
-"Last-Translator: Fábio Nogueira <deb-user-ba@ubuntu.com>\n"
+"Last-Translator: Vinícius Rubens Pedrinho <vrpedrinho@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -44,130 +45,129 @@ msgstr "Sobreposição"
 
 #: src/prefs.js:128
 msgid "Reset to default value"
-msgstr ""
+msgstr "Retornar ao valor padrão"
 
 #: src/prefs.js:134
 #, javascript-format
 msgid "Version %d"
-msgstr ""
+msgstr "Versão %d"
 
 #: src/prefs.js:140
 msgid "General"
-msgstr ""
+msgstr "Geral"
 
 #: src/prefs.js:145
 #, fuzzy
 msgid "Switcher"
-msgstr "Estilo do alternador"
+msgstr "Alternador"
 
 #: src/prefs.js:147
 msgid "Style"
-msgstr ""
+msgstr "Estilo"
 
 #: src/prefs.js:147
 msgid "Pick the type of switcher."
-msgstr ""
+msgstr "Escolha o tipo de alternador"
 
 #: src/prefs.js:148
 msgid "Vertical Offset"
-msgstr ""
+msgstr "Espaçamento vertical"
 
 #: src/prefs.js:148
 #, fuzzy
 msgid "Positive value moves everything down, negative up."
-msgstr ""
-"Desvio vertical (valor positivo move tudo para cima, negativo para baixo)"
+msgstr "Valor positivo move tudo para baixo, negativo para cima)"
 
 #: src/prefs.js:149
 #, fuzzy
 msgid "Window Title Position"
-msgstr "Posição da caixa de título da janela"
+msgstr "Posição do título da janela"
 
 #: src/prefs.js:149
 msgid "Place window title above or below the switcher."
-msgstr ""
+msgstr "Posicione o titulo da janela acima ou abaixo do alternador"
 
 #: src/prefs.js:150
 msgid "Enforce Primary Monitor"
-msgstr ""
+msgstr "Forçar no monitor primário"
 
 #: src/prefs.js:150
 #, fuzzy
 msgid ""
 "Always show on the primary monitor, otherwise, show on the active monitor."
-msgstr "Sempre exibir o alternador no monitor primário"
+msgstr "Sempre exibir no monitor primário, ou então, mostre no monitor ativo"
 
 #: src/prefs.js:153
 msgid "Behavior"
-msgstr ""
+msgstr "Comportamento"
 
 #: src/prefs.js:155
 msgid "Hide Panel"
-msgstr ""
+msgstr "Esconder painel"
 
 #: src/prefs.js:155
 msgid "Hide panel when switching widnows."
-msgstr ""
+msgstr "Esconder painel ao alternar janelas"
 
 #: src/prefs.js:158
 msgid "Animation"
-msgstr ""
+msgstr "Animação"
 
 #: src/prefs.js:162
 msgid "Duration"
-msgstr ""
+msgstr "Duração"
 
 #: src/prefs.js:162
 msgid "In seconds."
-msgstr ""
+msgstr "Em segundos."
 
 #: src/prefs.js:163
 msgid "Randomize Durations"
-msgstr ""
+msgstr "Duração aleatória"
 
 #: src/prefs.js:163
 msgid ""
 "Each animation duration assigned randomly between 0 and configured duration"
-msgstr ""
+msgstr "Cada animação terá uma duração aleatória entre 0 e a duração configurada"
 
 #: src/prefs.js:166
 #, fuzzy
 msgid "Switcher Windows"
-msgstr "Estilo do alternador"
+msgstr "Alternador de janelas"
 
 #: src/prefs.js:169
 msgid "Current workspace only"
-msgstr "Somente para área de trabalho atual"
+msgstr "Somente área de trabalho atual"
 
 #: src/prefs.js:171
 msgid "All workspaces"
-msgstr "Todas as áreas de trabalho"
+msgstr "Todas áreas de trabalho"
 
 #: src/prefs.js:173
 msgid "All workspaces, current first"
-msgstr "Todas as áreas de trabalho, com prioridade à atual"
+msgstr "Todas áreas de trabalho, com prioridade à atual"
 
 #: src/prefs.js:175
 #, fuzzy
 msgid "Workspaces"
-msgstr "Todas as áreas de trabalho"
+msgstr "Áreas de trabalho"
 
 #: src/prefs.js:175
 #, fuzzy
 msgid "Switch between windows on current or on all workspaces"
-msgstr "Mostrar janelas da área atual ou todas as áreas de trabalho"
+msgstr "Alternar janelas da área de trabalho atual ou todas"
 
 #: src/prefs.js:176
 msgid "Current Monitor"
-msgstr ""
+msgstr "Monitor atual"
 
 #: src/prefs.js:176
 msgid "Switch between windows on current monitor"
-msgstr ""
+msgstr "Alternar entre janelas no monitor atual"
 
 #: src/prefs.js:179
 msgid "Icon"
-msgstr ""
+msgstr "Ícone"
 
 #: src/prefs.js:181
 #, fuzzy
@@ -176,121 +176,121 @@ msgstr "Estilo do ícone do aplicativo"
 
 #: src/prefs.js:182
 msgid "Overlay Icon Size"
-msgstr ""
+msgstr "Tamanho do ícone sobreposto"
 
 #: src/prefs.js:182
 msgid "Set the overlay icon size in pixels."
-msgstr ""
+msgstr "Configurar o tamanho do ícone sobre posto em pixels"
 
 #: src/prefs.js:183
 msgid "Overlay Icon Opacity"
-msgstr ""
+msgstr "Opacidade do ícone sobreposto"
 
 #: src/prefs.js:183
 msgid "Set the overlay icon opacity."
-msgstr ""
+msgstr "Configurar opacidade do ícone sobreposto."
 
 #: src/prefs.js:184
 msgid "Icon Shadow"
-msgstr ""
+msgstr "Sombra do ícone"
 
 #: src/prefs.js:187
 msgid "Window Size"
-msgstr ""
+msgstr "Tamanho da janela"
 
 #: src/prefs.js:189
 msgid "Window Preview Size to Monintor Size Ratio"
-msgstr ""
+msgstr "Tamanho da prévia da janela proporcional ao tamanho do monitor"
 
 #: src/prefs.js:189
 msgid "Maximum ratio of window preview size to monitor size."
-msgstr ""
+msgstr "Tamanho maximo da prévia da janela ao tamanho do monitor"
 
 #: src/prefs.js:190
 msgid "Off-center Size Factor"
-msgstr ""
+msgstr "Fator de tamanho fora de centro"
 
 #: src/prefs.js:190
 msgid "Factor by which to successively shrink previews off to the side"
-msgstr ""
+msgstr "Fator para escolher sucessivas visualizações para o lado"
 
 #: src/prefs.js:193
 msgid "Background"
-msgstr ""
+msgstr "Fundo"
 
 #: src/prefs.js:195
 #, fuzzy
 msgid "Background Dim-factor"
-msgstr "Ofuscador de plano de fundo (menor significa escuro)"
+msgstr "Escurecer de plano de fundo"
 
 #: src/prefs.js:195
 msgid "Smaller means darker."
-msgstr ""
+msgstr "Menor significa mais escuro"
 
 #: src/prefs.js:198
 msgid "Keybindings"
-msgstr ""
+msgstr "Atalhos de teclado"
 
 #: src/prefs.js:200
 msgid "Bind to 'switch-windows'"
-msgstr ""
+msgstr "Atalho para 'Alternador de janelas'"
 
 #: src/prefs.js:201
 msgid "Bind to 'switch-applications'"
-msgstr ""
+msgstr "Atalho para 'alternador de aplicações'"
 
 #: src/prefs.js:214 src/prefs.js:220
 msgid "Perspective Correction"
-msgstr ""
+msgstr "Correção de perspectiva"
 
 #: src/prefs.js:217
 msgid "None"
-msgstr ""
+msgstr "Nenhum"
 
 #: src/prefs.js:218
 msgid "Move Camera"
-msgstr ""
+msgstr "Mover camera"
 
 #: src/prefs.js:219
 msgid "Adjust Angles"
-msgstr ""
+msgstr "Ajustar ângulo"
 
 #: src/prefs.js:223 src/prefs.js:225
 msgid "Highlight Window Under Mouse"
-msgstr ""
+msgstr "Destacar janela abaxo do mouse"
 
 #: src/prefs.js:225
 msgid ""
 "Draw embelishment on window under the mouse to know the effects of clicking."
-msgstr ""
+msgstr "Embelezar janela sob o mouse para saber efeitos do click"
 
 #: src/prefs.js:226
 msgid "Raise Window Under Mouse"
-msgstr ""
+msgstr "Trazer janela sob o mouse"
 
 #: src/prefs.js:226
 msgid "Raise the window under the mouse above all others."
-msgstr ""
+msgstr "Trazer a janela sobre o mouse acima das outras"
 
 #: src/prefs.js:229
 msgid "Tweaks"
-msgstr ""
+msgstr "Tweaks"
 
 #: src/prefs.js:236
 msgid "Appearance"
-msgstr ""
+msgstr "Aparência"
 
 #: src/prefs.js:241
 msgid "Contribute"
-msgstr ""
+msgstr "Contribua"
 
 #: src/prefs.js:277
 msgid "Code (create pull requests, report issues, etc.)"
-msgstr ""
+msgstr "Código (Crie pull requests, reporte problemas e outros)"
 
 #: src/prefs.js:284
 msgid "Support me with a Donation"
-msgstr ""
+msgstr "Apoie-me com uma doação"
 
 #~ msgid ""
 #~ "<b>Please restart Gnome-Shell to apply changes! (Hit Alt+F2, type 'r' and "
@@ -305,7 +305,7 @@ msgstr ""
 #~ msgstr "Ocultar o painel durante o Coverflow"
 
 #~ msgid "Animation speed (smaller means faster)"
-#~ msgstr "Velocidade da animação (menor significa rápido)"
+#~ msgstr "Velocidade da animação (menor significa mais rápido)"
 
 #~ msgid "Elastic animations"
 #~ msgstr "Animações elásticas"
